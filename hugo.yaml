@@ -1,0 +1,54 @@
+baseURL: "http://localhost:1313/"
+languageCode: "en-us"
+title: "CycloneCoderDocs"
+theme: "hextra"
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+    title: "Cyclone Coder"
+    
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Documentation
+      pageRef: /docs
+      weight: 1
+    - name: Blog
+      pageRef: /blog
+      weight: 2
+    - name: About
+      pageRef: /about
+      weight: 3
+    - name: Search
+      weight: 4
+      params:
+        type: search
+    - name: GitHub
+      weight: 5
+      url: "https://github.com/imfing/hextra"
+      params:
+        icon: github
+
+params:
+    footer:
+      enable: true
+      displayCopyright: true
+      displayPoweredBy: true
+      width: normal
+    theme:
+      default: system
+      displayToggle: true
+    highlight:
+      copy:
+        enable: true
+        # hover | always
+        display: hover
