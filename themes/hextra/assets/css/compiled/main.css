@@ -3560,3 +3560,14 @@ body:is(html[class~="dark"] *) {
   margin: 16px;
   overflow: hidden;
 }
+
+
+.invertImage{
+  opacity: 85%;
+  filter: invert(1);
+}
+
+.dark .invertImage{
+  opacity: 85%;
+  filter: none;
+}

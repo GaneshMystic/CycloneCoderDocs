@@ -6,8 +6,7 @@ layout: hextra-home
 
 {{< hextra/hero-badge >}}
   <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
-  <span>Free, open source</span>
-  {{< icon name="arrow-circle-right" attributes="height=14" >}}
+  <span>Simple | Free | Fun </span>
 {{< /hextra/hero-badge >}}
 
 <div class="hx-mt-6 hx-mb-6">
@@ -34,23 +33,23 @@ layout: hextra-home
     subtitle="Simple and easy to use, yet powerful and feature-rich."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/chat.jpg"
-    imageClass="cardImage"
+    imageClass="invertImage cardImage"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
     title="Inline Code Suggestions"
-    subtitle="Streamline your workflow and keeping you focus on coding."
+    subtitle="Type less boiler plate code and focus on solving problems."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
-    image="images/hextra-markdown.webp"
-    imageClass="cardImage"
+    image="images/completion.jpg"
+    imageClass="invertImage cardImage"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
     title="Code Referencing"
     subtitle="Insert, Refer and copy code directly from chat and editor."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="images/hextra-search.webp"
-    imageClass="cardImage"
+    image="images/refer.jpg"
+    imageClass="invertImage cardImage"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
@@ -67,7 +66,7 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="Supported Providers"
-    subtitle="Supports Ollama, GROQ, Open AI, Mistral and open ai providers with minimal configuration"
+    subtitle="Supports  providers like Ollama, GROQ, Open AI, Mistral with minimal configuration"
   >}}
   {{< hextra/feature-card
     title="And Much More..."
