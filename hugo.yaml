@@ -34,7 +34,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra"
+      url: "https://github.com/GaneshMystic/CycloneCoderDocs"
       params:
         icon: github
 
