@@ -1,8 +1,6 @@
 ---
 title: Installation
 weight: 1
-prev: docs
-next: docs/configuration
 ---
 
 Install the addon form the [market place](https://marketplace.visualstudio.com/items?itemName=BlizzardAI.cyclone-coder) or follow the instructions to install it from  [Visual Studio Code](https://code.visualstudio.com/) .
