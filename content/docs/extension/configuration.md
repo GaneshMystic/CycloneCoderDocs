@@ -1,11 +1,11 @@
 ---
 title: Configuration
-weight: 3
+weight: 1
 next: "docs/guide"
 ---
 
 
-Please check out the [installation guide](/docs/Installation) and [getting started](/docs/getting-started) before configuring the addon.
+Please check out the [installation guide](/docs/Installation) and [getting started](/docs/getting_started) before configuring the addon.
 
 This pages covers `settings` and `options` that can be altered to make good use of the extension. See advanced use case to add more models or configure new providers.
 

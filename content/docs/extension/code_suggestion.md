@@ -1,6 +1,6 @@
 ---
 title: Inline Code Suggestion
-weight: 2
+weight: 3
 ---
 
 ## Modes

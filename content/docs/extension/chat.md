@@ -1,6 +1,6 @@
 ---
 title: Chat
-weight: 1
+weight: 2
 prev: /docs/guide
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Getting Started
 weight: 2
+next: /docs/extension/
 ---
 
 Please check out the [installation guide](/docs/Installation) to install the extension.
@@ -84,7 +85,7 @@ Follow trouble shooting guide in [code completion Trouble shoot](/docs/guide/cod
 {{< /callout >}}
 
 {{< cards >}}
-  {{< card link="../guide/configuration" title="Configuration" icon="adjustments" >}}
-  {{< card link="../guide/chat" title="Chat" icon="chat-alt-2" >}}
-  {{< card link="../guide/completion" title="Completion" icon="sort-ascending" >}}
+  {{< card link="/docs/extension/configuration/" title="Configuration" icon="adjustments" >}}
+  {{< card link="/docs/extension/chat" title="Chat" icon="chat-alt-2" >}}
+  {{< card link="/docs/extension/code-suggestion" title="Completion" icon="sort-ascending" >}}
 {{< /cards >}}

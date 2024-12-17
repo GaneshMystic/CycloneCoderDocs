@@ -71,6 +71,6 @@ layout: hextra-home
   {{< hextra/feature-card
     title="And Much More..."
     icon="sparkles"
-    subtitle="Syntax highlighting / Assistant configuration / Read out Response / Customizable / and more..."
+    subtitle="Syntax highlighting / Assistant configuration / Copy as MD / Customization / and more..."
   >}}
 {{< /hextra/feature-grid >}}

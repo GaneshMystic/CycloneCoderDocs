@@ -35,9 +35,9 @@ Install the addon form the [market place](https://marketplace.visualstudio.com/i
 
 ## What Next
 
-{{< cards >}}
-  {{< card link="../configuration" title="Configuration" subtitle="After Installation you can configure you API provider and start using the extension." icon="adjustments" >}}
-  {{< card link="../guide/organize-files" title="Getting started" subtitle="Understand various features and make the most out of the extension" icon="sparkles" >}}
-  {{< card link="../guide/chat" title="Chat" icon="chat-alt-2" >}}
-  {{< card link="../guide/completion" title="Completion" icon="sort-ascending" >}}
+{{< cards cols="2" >}}
+  {{< card link="/docs/extension/configuration" title="Configuration" subtitle="After Installation you can configure you API provider and start using the extension." icon="adjustments" >}}
+  {{< card link="/docs/getting_started/" title="Getting started" subtitle="Understand various features and make the most out of the extension" icon="sparkles" >}}
+  {{< card link="/docs/extension/chat" title="Chat" icon="chat-alt-2" >}}
+  {{< card link="/docs/extension/code_suggestion" title="Completion" icon="sort-ascending" >}}
 {{< /cards >}}
