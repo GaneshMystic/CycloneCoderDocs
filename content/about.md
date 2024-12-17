@@ -5,7 +5,7 @@ toc: false
 
 **Hey there!✌️, I am [Ganesh](https://www.linkedin.com/in/ganesh-k-sivakumar/)**. I'm super excited to share about **🌌Cyclone Coder🌌** - The simple but useful AI-powered extension for VSCode! 🚀
 
-## What's the Core Idea? 🤔
+## 🤔What's the Core Idea?
 
 ### Key Features 🎉
 
@@ -26,14 +26,14 @@ With commitment in improving and expanding the capabilities of Cyclone Coder, th
 {{< card title="Community" icon="user-group" subtitle="Feature request and bug fix." >}}
 {{< /cards >}}
 
-## Credits 🤗
+## 🤗Credits
 
 A huge thank you to our amazing community, friends, and family for their support and motivation throughout the development of Cyclone Coder!
 
-## Contributing 🤝
+## 🤝Contributing
 
 If you'd like to contribute to Cyclone Coder, please check out our contribution guidelines 📝
 
-## Troubleshooting 🤔
+## 🤔Troubleshooting
 
 If you encounter any issues while using Cyclone Coder, don't worry! Our troubleshooting page has got you covered.
