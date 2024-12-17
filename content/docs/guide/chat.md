@@ -6,10 +6,10 @@ prev: /docs/guide
 
 ## Configure
 
-1. On the bottom of the chat boxYou can find dropdown for changing the model.  
+1. On the bottom of the chat boxYou can find dropdown for changing the model.
 2. The `{{< icon "adjustments" >}}` option allows you to configure your system and temperature.
-   1. `System` message defines your assistant state. you can state how your assistant should respond here.
-   2. Increase the `temperature` will increase the creativity of the model.
+   - `System` message defines your assistant state. you can state how your assistant should respond here.
+   - Increase the `temperature` will increase the creativity of the model.
 3. The speaker auction allows you to activate Readout Response.
 
 ## Read out response
