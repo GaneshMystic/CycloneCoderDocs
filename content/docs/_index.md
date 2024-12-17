@@ -4,11 +4,15 @@ title: Introduction
 next: /docs/installation/
 ---
 
-👋 Hello! Welcome to the Cyclone Coder documentation!
+### Welcome to the **Cyclone Coder** documentation!
 
 Cyclone coder is designed to improve your coding experience in Visual Studio Code. Whether you're a seasoned developer or just starting out, Cyclone Coder is here to help you with code snippets, coding questions, and more through an intuitive chat interface.
 
-## Next
+<div class="hx-mt-6"></div>
+
+<img width="100%" style="border-radius:8px; overflow:hidden" src="/images/wrapper.png" />
+
+## Get Started
 
 Dive right into the following section to get started:
 
