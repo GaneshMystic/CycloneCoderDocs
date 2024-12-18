@@ -19,7 +19,7 @@ Mistral will use the same key provided for chat.
 
 {{< /callout >}}
 
-Clicking the three dots on the top right corner opens additional chat settings where you can update few more settings.
+`{{< icon "dots-vertical" >}}` button on the top right corner opens additional chat settings where you can update few more settings.
 
 1. You can change the Provider `API URL`.
 2. Chat context allows you to say the number of `chats from  current history` that gets used for each chat api call.
@@ -46,3 +46,12 @@ Clicking the three dots on the top right corner opens additional chat settings w
 
 1. Code temperature will change the `creativity` of the suggestion  model.
 2. Timing will the `wait time` before each trigger of completion.
+
+## Questions or Feedback?
+
+{{< callout type="error" >}}
+Cyclone Coder is still under development, and your input is valuable!
+Have a question or feedback? Feel free to [open an issue](https://github.com/GaneshMystic/CycloneCoderDocs/issues)!
+{{< /callout >}}
+
+[`{{< icon "pencil" >}} Edit this page`](https://github.com/GaneshMystic/CycloneCoderDocs/content/docs/extension/configuration.md)

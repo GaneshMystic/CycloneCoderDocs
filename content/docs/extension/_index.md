@@ -13,7 +13,7 @@ next: /docs/extension/configuration/
 * **Enhanced Productivity:** Enjoy the convenience of having responses read out loud on both Windows and Mac (enable in settings). 
 * **Quick Code Referencing:** Quickly reference selected code from the editor in the chat using handy shortcut keys.
 
-{{< callout type="warning" >}}
+{{< callout type="info" >}}
 Cyclone Coder is currently in Alpha release. While it's been tested, there may be minor issues we're actively working on. Your feedback is highly appreciated!
 {{< /callout >}}
 
@@ -36,7 +36,10 @@ Dive right into the following sections to learn more and start using the extensi
 
 ## Questions or Feedback?
 
-{{< callout emoji="❓" >}}
+{{< callout type="error" >}}
 Cyclone Coder is still under development, and your input is valuable!
 Have a question or feedback? Feel free to [open an issue](https://github.com/GaneshMystic/CycloneCoderDocs/issues)!
 {{< /callout >}}
+
+
+[`{{< icon "pencil" >}} Edit this page`](https://github.com/GaneshMystic/CycloneCoderDocs/content/docs/extension/_index.md)

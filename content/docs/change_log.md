@@ -39,7 +39,6 @@ prev: /docs
 
 ## 🎃 `2.0` 🎃
 
-
 ### Version **0.1.9**
 
 - 🐞 Fixed minor bugs in `chat`.

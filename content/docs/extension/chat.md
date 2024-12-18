@@ -24,3 +24,13 @@ prev: /docs/guide
 2. The insert button will insert the suggested code Into the editor or replace the selected code.
 3. The copy button present below the Chat allows you to copy the entire chat block as markdown.
 4. You can use ctrl + shift + Q to copy the selected code from editor to chat window.
+
+## Questions or Feedback?
+
+{{< callout type="error" >}}
+Cyclone Coder is still under development, and your input is valuable!
+Have a question or feedback? Feel free to [open an issue](https://github.com/GaneshMystic/CycloneCoderDocs/issues)!
+{{< /callout >}}
+
+
+[`{{< icon "pencil" >}} Edit this page`](https://github.com/GaneshMystic/CycloneCoderDocs/content/docs/extension/chat.md)
