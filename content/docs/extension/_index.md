@@ -42,4 +42,4 @@ Have a question or feedback? Feel free to [open an issue](https://github.com/Gan
 {{< /callout >}}
 
 
-[`{{< icon "pencil" >}} Edit this page`](https://github.com/GaneshMystic/CycloneCoderDocs/content/docs/extension/_index.md)
+[`{{< icon "pencil" >}} Edit this page`](https://github.com/GaneshMystic/CycloneCoderDocs/blob/main/content/docs/extension/_index.md)

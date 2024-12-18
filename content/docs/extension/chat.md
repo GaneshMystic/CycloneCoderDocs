@@ -32,5 +32,4 @@ Cyclone Coder is still under development, and your input is valuable!
 Have a question or feedback? Feel free to [open an issue](https://github.com/GaneshMystic/CycloneCoderDocs/issues)!
 {{< /callout >}}
 
-
-[`{{< icon "pencil" >}} Edit this page`](https://github.com/GaneshMystic/CycloneCoderDocs/content/docs/extension/chat.md)
+[`{{< icon "pencil" >}} Edit this page`](https://github.com/GaneshMystic/CycloneCoderDocs/blob/main/content/docs/extension/chat.md)
