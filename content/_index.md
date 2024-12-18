@@ -61,8 +61,8 @@ layout: hextra-home
     subtitle="Cyclone Coder can read out responses on Windows and Mac, making it accessible and convenient for users who prefer auditory feedback."
   >}}
   {{< hextra/feature-card
-    title="Code Referencing"
-    subtitle="Refer selected code from the editor to the chat using `Ctrl + Shift + Q`, allowing for seamless integration between your code and the assistant."
+    title="Chat to code"
+    subtitle="Easily insert, reference, and copy code snippets between the chat and your editor, streamlining your workflow and minimizing boilerplate."
   >}}
   {{< hextra/feature-card
     title="Supported Providers"
