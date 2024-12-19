@@ -4,9 +4,12 @@ weight: 2
 prev: /docs/guide
 ---
 
+<div class="hx-mt-6"></div>
+<img width="100%" style="border-radius:8px; overflow:hidden" src="/images/gif/chat.gif" />
+
 ## Configure
 
-1. On the bottom of the chat boxYou can find dropdown for changing the model.  
+1. On the bottom of the chat boxYou can find dropdown for changing the model.
 2. The `{{< icon "adjustments" >}}` option allows you to configure your system and temperature.
    1. `System` message defines your assistant state. you can state how your assistant should respond here.
    2. Increase the `temperature` will increase the creativity of the model.

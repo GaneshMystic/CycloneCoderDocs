@@ -7,11 +7,7 @@ next: /docs/extension/
 Please check out the [installation guide](/docs/Installation) to install the extension.
 
 <div class="hx-mt-6"></div>
-
-<video width="100%" style="border-radius:8px; overflow:hidden"  autoplay loop muted>
-  <source src="/images/install.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img width="100%" style="border-radius:8px; overflow:hidden" src="/images/gif/config-chat.gif" />
 
 ## Chat
 
@@ -44,6 +40,9 @@ Start asking questions or request code snippets directly from the chat interface
 `Insert or Copy` code snippets from the Chat directly using code action button.
 
 {{% /steps %}}
+
+<div class="hx-mt-6"></div>
+<img width="100%" style="border-radius:8px; overflow:hidden" src="/images/gif/config-autocomplete.gif" />
 
 ## Inline code completion
 
@@ -85,7 +84,7 @@ Follow trouble shooting guide in [code completion Trouble shoot](/docs/guide/cod
 {{< /callout >}}
 
 {{< cards >}}
-  {{< card link="/docs/extension/configuration/" title="Configuration" icon="adjustments" >}}
-  {{< card link="/docs/extension/chat" title="Chat" icon="chat-alt-2" >}}
-  {{< card link="/docs/extension/code-suggestion" title="Completion" icon="sort-ascending" >}}
+{{< card link="/docs/extension/configuration/" title="Configuration" icon="adjustments" >}}
+{{< card link="/docs/extension/chat" title="Chat" icon="chat-alt-2" >}}
+{{< card link="/docs/extension/code-suggestion" title="Completion" icon="sort-ascending" >}}
 {{< /cards >}}

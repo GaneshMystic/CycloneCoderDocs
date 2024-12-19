@@ -3,6 +3,9 @@ title: Inline Code Suggestion
 weight: 3
 ---
 
+<div class="hx-mt-6"></div>
+<img width="100%" style="border-radius:8px; overflow:hidden" src="/images/gif/code-complete.gif" />
+
 ## Modes
 
 Check the bottom bar for the modes of inline code suggestion system.
@@ -26,6 +29,5 @@ Click on the `Code Complete` button on bottom bar to open the settings.
 Cyclone Coder is still under development, and your input is valuable!
 Have a question or feedback? Feel free to [open an issue](https://github.com/GaneshMystic/CycloneCoderDocs/issues)!
 {{< /callout >}}
-
 
 [`{{< icon "pencil" >}} Edit this page`](https://github.com/GaneshMystic/CycloneCoderDocs/blob/main/content/docs/extension/code_suggestion.md)
