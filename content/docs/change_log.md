@@ -1,7 +1,6 @@
 ---
 title: Change Log
 weight: 6
-prev: /docs
 ---
 
 ## Alpha `2.5` 🎄

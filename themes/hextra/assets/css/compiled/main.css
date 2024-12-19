@@ -1466,11 +1466,13 @@ video {
   font-weight: 600;
   letter-spacing: -0.015em;
   --tw-text-opacity: 1;
-  color: rgb(15 23 42 / var(--tw-text-opacity));
+  /* color: rgb(15 23 42 / var(--tw-text-opacity)); */
+  color: hsl(var(--primary-hue) var(--primary-saturation) calc(var(--primary-lightness) * 0.5) );
 }
 .content :where(h3):not(:where([class~=not-prose],[class~=not-prose] *)):is(html[class~="dark"] *) {
   --tw-text-opacity: 1;
-  color: rgb(241 245 249 / var(--tw-text-opacity));
+  color: hsl(var(--primary-hue) var(--primary-saturation) calc(var(--primary-lightness) * 0.4) );
+  /* color: rgb(241 245 249 / var(--tw-text-opacity)); */
 }
 .content :where(h4):not(:where([class~=not-prose],[class~=not-prose] *)) {
   margin-top: 2rem;
@@ -2299,7 +2301,7 @@ article details > summary::before {
   font-size: 1rem;
   font-weight: 400;
   --tw-text-opacity: 1;
-  color: rgb(163 163 163 / var(--tw-text-opacity));
+  color: hsl(var(--primary-hue) var(--primary-saturation) calc(calc(var(--primary-lightness) / 50) * 32) /var(--tw-text-opacity));
   margin-top: 3px;
 }
 .steps h3:where([dir="ltr"], [dir="ltr"] *):before {
@@ -3570,4 +3572,8 @@ body:is(html[class~="dark"] *) {
 .dark .invertImage{
   opacity: 85%;
   filter: none;
+}
+
+strong{
+  color: hsl(var(--primary-hue) var(--primary-saturation) calc(calc(var(--primary-lightness) / 50) * 32) / 0.8);
 }

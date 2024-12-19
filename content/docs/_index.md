@@ -4,7 +4,7 @@ title: Introduction
 next: /docs/installation/
 ---
 
-### Welcome to the **Cyclone Coder** documentation!
+## Welcome to the **Cyclone Coder** docs!
 
 Cyclone coder is designed to improve your coding experience in Visual Studio Code. Whether you're a seasoned developer or just starting out, Cyclone Coder is here to help you with code snippets, coding questions, and more through an intuitive chat interface.
 

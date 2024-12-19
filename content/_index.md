@@ -17,7 +17,7 @@ layout: hextra-home
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
- Elevate Your Coding Experience with Cyclone Coder&nbsp;<br class="sm:hx-block hx-hidden" />Your Ultimate AI Chat and coding Assistant
+ Elevate Your Coding Experience with **Cyclone Coder**&nbsp;<br class="sm:hx-block hx-hidden" />Your Ultimate AI Chat and coding Assistant
 {{< /hextra/hero-subtitle >}}
 </div>
 
