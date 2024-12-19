@@ -8,7 +8,7 @@ weight: 3
 
 ## Modes
 
-Check the bottom bar for the modes of inline code suggestion system.
+Check the **bottom bar** for the modes of inline code suggestion system.
 
 1. `{{< icon "ban" >}} Code Complete` will be displayed if code completion is disabled.
 2. `{{< icon "check" >}} Code Complete` will show that the completion is active.
@@ -25,9 +25,9 @@ Click on the `Code Complete` button on bottom bar to open the settings.
 
 ## Questions or Feedback?
 
-{{< callout type="error" >}}
+{{< callout type="error" emoji="🐞" >}}
 Cyclone Coder is still under development, and your input is valuable!
 Have a question or feedback? Feel free to [open an issue](https://github.com/GaneshMystic/CycloneCoderDocs/issues)!
 {{< /callout >}}
 
-[`{{< icon "pencil" >}} Edit this page`](https://github.com/GaneshMystic/CycloneCoderDocs/blob/main/content/docs/extension/code_suggestion.md)
+[`{{< icon "pencil" >}} Edit this page`](https://github.com/GaneshMystic/CycloneCoderDocs/edit/main/content/docs/extension/code_suggestion.md)

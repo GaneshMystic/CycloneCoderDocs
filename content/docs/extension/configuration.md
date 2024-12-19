@@ -16,20 +16,22 @@ This pages covers `settings` and `options` that can be altered to make good use 
 You can change or update the `API key` by clicking the api key button on top right corner of chat window anytime.
 
 {{< callout type="info" >}}
-
 Mistral will use the same key provided for chat.
-
 {{< /callout >}}
 
-`{{< icon "dots-vertical" >}}` button on the top right corner opens additional chat settings where you can update few more settings.
+Use `{{< icon "dots-vertical" >}}` button on the top right corner opens additional chat settings where you can update few more settings.
 
 1. You can change the Provider `API URL`.
-2. Chat context allows you to say the number of `chats from  current history` that gets used for each chat api call.
+2. `Chat context` allows you to say the number of latest `chats` from current history to used.
    {{< callout type="warning" >}}
-   User and Assistant chat is counted here.
+   Both the user and assistant chats are counted while considering the chat history.
    {{< /callout >}}
-3. Input tokens will limit the number of tokens that gets used as context for generating response of each chat.
-4. Tokens to generate will limit the number of `new tokens` that gets generated on every chat response.
+3. Input tokens will represent number of tokens that gets used as context for generating response of each chat.
+4. Number of `new tokens` that get generated on each response.
+
+{{< callout type="info" >}}
+Decrease Tokens to generate will generate short but quick AI response.
+{{< /callout >}}
 
 ## Inline Completion
 
@@ -39,11 +41,7 @@ Mistral will use the same key provided for chat.
 4. Select the `Completion Provider` and the available `code completion model`.
 
 {{< callout type="warning" >}}
-
-If API key is not provided a new pop up will request for one.
-<br />
-Mistral will use the same key provided for the chat.
-
+Mistral code complete model will use the same key provided for the chat.
 {{< /callout >}}
 
 1. Code temperature will change the `creativity` of the suggestion model.
@@ -51,9 +49,9 @@ Mistral will use the same key provided for the chat.
 
 ## Questions or Feedback?
 
-{{< callout type="error" >}}
+{{< callout type="error" emoji="🐞" >}}
 Cyclone Coder is still under development, and your input is valuable!
 Have a question or feedback? Feel free to [open an issue](https://github.com/GaneshMystic/CycloneCoderDocs/issues)!
 {{< /callout >}}
 
-[`{{< icon "pencil" >}} Edit this page`](https://github.com/GaneshMystic/CycloneCoderDocs/blob/main/content/docs/extension/configuration.md)
+[`{{< icon "pencil" >}} Edit this page`](https://github.com/GaneshMystic/CycloneCoderDocs/edit/main/content/docs/extension/configuration.md)
