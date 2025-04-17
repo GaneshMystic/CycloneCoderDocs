@@ -1,5 +1,5 @@
 ---
-title: Hextra Theme
+title: Cyclone Coder
 layout: hextra-home
 ---
 
