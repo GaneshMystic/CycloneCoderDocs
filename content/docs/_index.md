@@ -10,7 +10,7 @@ Cyclone coder is designed to improve your coding experience in Visual Studio Cod
 
 <div class="hx-mt-6"></div>
 
-<img width="100%" style="border-radius:8px; overflow:hidden" src="/images/wrapper.png" />
+<img width="100%" style="border-radius:8px; overflow:hidden" src="/images/intro-poster.png" />
 
 ## Get Started
 
